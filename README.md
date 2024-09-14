@@ -57,5 +57,5 @@ This project is licensed under the [MIT License](LICENSE).
 ## Contact
 
 - Email: 
-- LinkedIn: [Your LinkedIn Profile]()
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/mirza-samad-0a0973232/)
 
